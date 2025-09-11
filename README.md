@@ -1,9 +1,9 @@
 # sql-data-warehouse-project
 # 📊 Modern SQL Data Warehouse Project
 
-Welcome to my project repository! This project demonstrates building a modern SQL Data Warehouse from scratch, following the practical approach shared in the "SQL Data Warehouse from Scratch | Full Hands-On Data Engineering Project" YouTube tutorial by Data with Baraa. ✨
+Welcome to my project repository! This project demonstrates building a modern SQL Data Warehouse from scratch, following the practical approach shared in the "SQL Data Warehouse from Scratch . ✨
 
-This project provided hands-on experience in the roles of a **Data Architect** (designing architecture), **Data Engineer** (writing code for ETL, preparing data), and **Data Modeler** (creating the data model for analysis) . By the end, I have a professional portfolio project showcasing these skills .
+This project provided hands-on experience in the roles of a **Data Architect** (designing architecture), **Data Engineer** (writing code for ETL, preparing data), and **Data Modeler** (creating the data model for analysis) .
 
 The core goal of this data warehouse is to **consolidate sales data** from disparate sources to enable analytical reporting and informed decision making .
 
